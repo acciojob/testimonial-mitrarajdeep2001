@@ -28,6 +28,7 @@ h1{
     border: 1px solid #DEDEDE;
     border-top: none;
     background-color: white;
+	font-style: italic;
 }
 .three{
     margin-bottom: 0px;
@@ -45,4 +46,5 @@ h1{
     border-top: none;
     text-align: right;
     background-color: white;
+	font-style: italic;
 }
